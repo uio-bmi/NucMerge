@@ -1,6 +1,3 @@
-[submodule "NucDiff"]
-	path = NucDiff
-	url = https://github.com/uio-cels/NucDiff
 [submodule "NucBreak"]
 	path = NucBreak
 	url = https://github.com/uio-bmi/NucBreak
